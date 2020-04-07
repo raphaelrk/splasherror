@@ -1,0 +1,17 @@
+{
+  "name": "splasherror",
+  "displayName": "splasherror",
+  "expo": {
+    "name": "splasherror",
+    "slug": "splasherror",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
